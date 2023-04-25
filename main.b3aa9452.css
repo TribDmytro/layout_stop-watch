@@ -1,0 +1,2 @@
+.clock{display:flex;justify-content:center;width:500px;height:500px}.clock__minute{height:250px;width:8px;background-color:#00f;animation:move 3600s linear infinite}.clock__minute,.clock__second{position:absolute;bottom:50%;transform-origin:bottom;border-radius:8px}.clock__second{height:150px;width:4px;animation:move 60s linear infinite;background-color:red}.clock__center{position:absolute;bottom:49%;width:20px;height:20px;border-radius:50%;background-color:grey}@keyframes move{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.b3aa9452.css.map */
